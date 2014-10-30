@@ -1,0 +1,13 @@
+'fileTypes': [
+  'lens'
+]
+
+'name': 'Koken Lens'
+
+'patterns': [
+  {
+    'include': 'text.html.basic'
+  }
+]
+
+'scopeName': 'text.lens'

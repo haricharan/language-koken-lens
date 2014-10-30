@@ -1,0 +1,13 @@
+'fileTypes': [
+  'css.lens'
+]
+
+'name': 'Koken Lens CSS'
+
+'patterns': [
+  {
+    'include': 'source.css'
+  }
+]
+
+'scopeName': 'settings.css.lens'
