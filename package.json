@@ -1,0 +1,14 @@
+{
+  "name": "language-koken-lens",
+  "main": "./lib/language-koken-lens",
+  "version": "0.1.0",
+  "description": "Support for Koken lens files in Atom editor",
+  "activationEvents": ["language-koken-lens:toggle"],
+  "repository": "https://github.com/haricharan/language-koken-lens",
+  "license": "MIT",
+  "engines": {
+    "atom": ">0.50.0"
+  },
+  "dependencies": {
+  }
+}
